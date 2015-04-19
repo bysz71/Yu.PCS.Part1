@@ -12,6 +12,8 @@ namespace Yu.PCS.Part1
         static void Main(string[] args)
         {
             GotoTest.GotoTest.TestGoto();
+            System.Console.WriteLine();
+            PassTest.PassTest.Test();
         }
     }
 }

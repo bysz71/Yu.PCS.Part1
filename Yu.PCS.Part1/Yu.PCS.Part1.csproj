@@ -44,8 +44,11 @@
     <Compile Include="GotoTest\DungeonGame.cs" />
     <Compile Include="GotoTest\GotoTest.cs" />
     <Compile Include="GotoTest\Monster.cs" />
+    <Compile Include="PassTest\PassTest.cs" />
+    <Compile Include="PassTest\PassTestBasic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StdLib\StdLib.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

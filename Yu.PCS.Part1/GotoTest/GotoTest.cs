@@ -10,8 +10,11 @@ namespace Yu.PCS.Part1.GotoTest
     {
         public static void TestGoto()
         {
+            System.Console.WriteLine("--GotoTest start--");
             var game = new DungeonGame();
             game.PlayGame();
+
+            System.Console.WriteLine("--GotoTest finished--\n");
         }
     }
 }
